@@ -41,7 +41,7 @@ Ensure you have **Python 3** installed on your system.
 
 6. **Install the packages**:
    ```bash
-   pip install iqm-benchmarks iqm-qubit-selector
+   pip install iqm-benchmarks iqm-qubit-selector matplotlib
    ```
 
 ## Verifying Installation
